@@ -9,7 +9,7 @@
         width: '300',
         height: '300',
         scratched: '40',
-        coverImage: 'assets/images/cover-3.png',
+        coverImage: 's/ekupon-jc-12-21.png',
         brushImage: 'assets/images/brush.png'
     });
     
@@ -22,7 +22,7 @@
         width: '300',
         height: '300',
         scratched: '40',
-        coverImage: 'assets/images/cover-1.png',
+        coverImage: 's/ekupon-jc-12-21.png',
         brushImage: 'assets/images/brush.png',
         inpopup:true,
         autoTrigger:true,
@@ -34,7 +34,7 @@
         width: '300',
         height: '300',
         scratched: '40',
-        coverImage: 'assets/images/cover-2.png',
+        coverImage: 's/ekupon-jc-12-21.png',
         brushImage: 'assets/images/brush.png',
         inpopup:true,
         triggerOn: "#popupopen3"
